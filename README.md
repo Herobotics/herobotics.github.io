@@ -31,8 +31,8 @@ FIRST Team 2500 Herobotics strives to change the face of science, technology, en
 
 #### Conflicting needs of a team
 
-* psychological safety
-* value descent and debate
+* Psychological safety
+* Value dissent and debate
 
 #### Norms to get there
 
@@ -167,17 +167,25 @@ Communication between these teams is going to be facilitated at the monthly Ment
 ### Task Management
 
 * [Trello](https://trello.com/invite/herobotics/8cd4acf0d3142bced9d084a531adce9b)
-* [Jira](https://herobotics.atlassian.net/)
+* Physical Kanban
 
 ### Scheduling
 
 * Google calendar
 
-## Actions --> Artifact
+## Next steps
 
-* Assemble mechanical parts
-* Design mechanical assemblies
-* Assemble prototypes
-* Plan
-* CAD
-* Draft
+### What would you add and change
+
+* Look at these lists and add anything you think is missing.
+* Move around the teams to what makes sense to you.
+
+### What do you want to do
+
+* Create ownership roles for projects throughout the year.
+* How much time can you put in?
+
+### How will we communicate
+
+* Monthly mentor meetings, email and slack. 
+* Single source of truth.

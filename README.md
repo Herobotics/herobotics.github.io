@@ -88,7 +88,7 @@ To get to:
 
 #### Experience and Passing Knowledge
 
-As often as possible managers should describe and document how to do things. If you are t
+---
 
 ## Project Areas
 
@@ -154,6 +154,8 @@ Communication between these teams is going to be facilitated at the monthly Ment
 * Practice Field
 * Pit
 
+---
+
 ## Coordination Tools
 
 ### Communication
@@ -172,6 +174,8 @@ Communication between these teams is going to be facilitated at the monthly Ment
 ### Scheduling
 
 * Google calendar
+
+---
 
 ## Next steps
 

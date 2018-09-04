@@ -45,6 +45,8 @@ Should foster:
 To get to:
 
 * Assume good intentions
+* Be excellent to each other
+* `<insert more norms here>`
 
 ### What we do (Roles)
 
@@ -160,7 +162,7 @@ Communication between these teams is going to be facilitated at the monthly Ment
 
 ### Communication
 
-* [Slack](phhs.slack.com)
+* [Slack](https://phhs.slack.com)
 * Email
 * Text
 * Phone
